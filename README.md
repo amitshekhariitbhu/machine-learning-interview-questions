@@ -58,6 +58,7 @@
 - What is Bias?
    - Answer: [What is Bias?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
 - What is the difference between Classification and Regression?
+    - Answer: [Classification Vs Regression](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-activity-7324687914074824704-KqCm)
 - Explain Overfitting and Underfitting. How can you prevent them?
 - What Are L1 and L2 Loss Functions?
    - Answer: [What Are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
