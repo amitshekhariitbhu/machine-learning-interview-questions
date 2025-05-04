@@ -77,6 +77,7 @@
 - What is Q-Learning?
 - Explain the concept of exploration vs exploitation.
 - Explain the curse of dimensionality and how to address it.
+- Explain Local Loss, Focal Loss, and Gradient Blending in the context of Multi-Task Learning.
 
 ### Algorithms
 
