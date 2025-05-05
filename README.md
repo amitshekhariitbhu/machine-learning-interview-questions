@@ -286,7 +286,7 @@
 - Design a Machine Learning System to Estimate Delivery Time.
 - Design a Machine Learning System for Image Search.
 - Design a Machine Learning System for Friends Recommendation.
-- Design a Machine Learning Product Recommendation for an e-commerce platform.
+- Design a Machine Learning Product Recommendation System for an e-commerce platform.
 - How would you build a system to detect fraudulent transactions?
 - How would you approach a time series forecasting problem?
 - How would you build a spam detection system?
