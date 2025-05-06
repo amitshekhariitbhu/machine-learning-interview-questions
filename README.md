@@ -313,6 +313,7 @@
 - Explain MLOps and its key components.
 - What is a feature store, and why is it important?
 - Cloud vs on-device Model Deployment.
+    - Answer: [Cloud vs On-Device Model Deployment](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-deployment-activity-7325427105784102913-EDtK)
 - Tell about the Model Compression Techniques.
 
 ### Probability and Statistics
