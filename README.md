@@ -315,6 +315,7 @@
 - Cloud vs on-device Model Deployment.
     - Answer: [Cloud vs On-Device Model Deployment](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-deployment-activity-7325427105784102913-EDtK)
 - Tell about the Model Compression Techniques.
+    - Answer: [Model Compression Techniques](https://x.com/pallavishekhar_/status/1920027190684467240)
 
 ### Probability and Statistics
 
