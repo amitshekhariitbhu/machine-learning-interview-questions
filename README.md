@@ -108,11 +108,11 @@
 
 - What is Feature Engineering?
    - Answer: [Feature Engineering for Machine Learning](https://outcomeschool.com/blog/feature-engineering)
+- What is one-hot encoding? When should you use it?
+    - Answer: [One-hot Encoding in Machine Learning](https://www.youtube.com/watch?v=6AmedU5i9go)
 - How do you deal with missing data?
 - How do you handle Outliers?
 - Explain Feature Scaling. Why is it needed?
-- What is one-hot encoding? When should you use it?
-    - Answer: [One-hot Encoding in Machine Learning](https://www.youtube.com/watch?v=6AmedU5i9go)
 - One-Hot, Label, Target, and K-Fold Target Encoding
 - How do you handle Categorical Features?
 - Explain Feature selection vs feature extraction.
