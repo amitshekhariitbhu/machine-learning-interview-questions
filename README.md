@@ -359,6 +359,7 @@
 
 - Write a Python function to compute the mean squared error (MSE).
 - Implement a simple linear regression model from scratch.
+    - Answer: [Implement Linear Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/linear-regression/linear_regression.py)
 - How would you implement k-means clustering?
 - Write code to perform k-fold cross-validation.
 - How would you use Pandas to load and clean data?
