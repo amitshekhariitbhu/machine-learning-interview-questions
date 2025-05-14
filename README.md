@@ -107,7 +107,7 @@
 ### Data Preprocessing and Feature Engineering
 
 - What is Feature Engineering?
-   - Answer: [Feature Engineering for Machine Learning](https://outcomeschool.com/blog/feature-engineering)
+   - Answer: [Feature Engineering in Machine Learning](https://www.youtube.com/watch?v=QLlywrWuXag)
 - What is one-hot encoding? When should you use it?
     - Answer: [One-hot Encoding in Machine Learning](https://www.youtube.com/watch?v=6AmedU5i9go)
 - How do you deal with missing data?
