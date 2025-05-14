@@ -365,6 +365,8 @@
     - Answer: [Implement Linear Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/linear-regression/linear_regression.py)
 - Implement a simple logistic regression model from scratch.
     - Answer: [Implement Logistic Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/logistic-regression/logistic_regression.py)
+- Implement K-Nearest Neighbors (KNN).
+    - Answer: [Implement K-Nearest Neighbors (KNN)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/knn/knn.py)
 - Implement Sigmoid, Tanh, ReLU, LeakyReLU, and Softmax Activation Functions.
     - Answer: [Implement Sigmoid, Tanh, ReLU, LeakyReLU, and Softmax Activation Functions](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/activation-functions/activation_functions.py)
 - How would you implement k-means clustering?
