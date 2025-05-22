@@ -53,21 +53,22 @@
 - What are embeddings in Machine Learning?
     - Answer: [Embeddings in Machine Learning](https://www.youtube.com/watch?v=LedXW6xl21s)
 - What is Machine Learning?
-   - Answer: [What is Machine Learning?](https://outcomeschool.com/blog/machine-learning)
+    - Answer: [What is Machine Learning?](https://outcomeschool.com/blog/machine-learning)
 - Differentiate between Supervised and Unsupervised Learning.
     - Answer: [Supervised vs Unsupervised Learning](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-activity-7326143104179208192-Gf84)
 - What is Reinforcement Learning?
-   - Answer: [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
+    - Answer: [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
 - What is Bias?
-   - Answer: [What is Bias?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
+    - Answer: [What is Bias?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
 - What is the difference between Classification and Regression?
     - Answer: [Classification Vs Regression](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-activity-7324687914074824704-KqCm)
 - Explain Overfitting and Underfitting. How can you prevent them?
 - What Are L1 and L2 Loss Functions?
-   - Answer: [What Are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
+    - Answer: [What Are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
 - What is Regularization? Explain L1 (Lasso) and L2 (Ridge) regularization.
-   - Answer: [Regularization In Machine Learning](https://outcomeschool.com/blog/regularization-in-machine-learning)
+    - Answer: [Regularization In Machine Learning](https://outcomeschool.com/blog/regularization-in-machine-learning)
 - What are Loss Functions and Cost Functions? Explain the key difference between them.
+    - Answer: [Loss functions and Cost functions in Machine Learning](https://x.com/amitiitbhu/status/1925471830640664925)
 - What are dropouts?
 - What are Logits?
 - Explain Multilayer Perception (MLP).
