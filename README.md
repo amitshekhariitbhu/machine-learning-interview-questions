@@ -70,6 +70,7 @@
 - What are Loss Functions and Cost Functions? Explain the key difference between them.
     - Answer: [Loss functions and Cost functions in Machine Learning](https://x.com/amitiitbhu/status/1925471830640664925)
 - What are dropouts?
+    - Answer: [Dropout in Machine Learning](https://x.com/amitiitbhu/status/1925587392418787493)
 - What are Logits?
 - Explain Multilayer Perception (MLP).
 - What is Cross-Entropy?
