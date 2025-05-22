@@ -161,6 +161,7 @@
 - What is a generative model, and how does it differ from a discriminative model?
 - Can you explain how a generative model works?
 - Explain Encoder-Decoder Architecture.
+    - Answer: [Encoder-Decoder Architecture Explained](https://x.com/amitiitbhu/status/1925410667043201409)
 - What is Latent Space?
 - What are autoencoders? Explain their layers and practical uses.
 - What is a Variational Autoencoder (VAE), and how is it different from a traditional autoencoder?
