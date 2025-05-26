@@ -52,6 +52,8 @@
     - Answer: [Epoch, Batch, Batch Size, Iteration](https://www.youtube.com/watch?v=NFLlXE-6vno)
 - What are embeddings in Machine Learning?
     - Answer: [Embeddings in Machine Learning](https://www.youtube.com/watch?v=LedXW6xl21s)
+- What is Softmax Activation Function?
+    - Answer: [Softmax Activation Function in Machine Learning](https://www.youtube.com/watch?v=2Zx6x01WwWM)
 - What is Machine Learning?
     - Answer: [What is Machine Learning?](https://outcomeschool.com/blog/machine-learning)
 - Differentiate between Supervised and Unsupervised Learning.
