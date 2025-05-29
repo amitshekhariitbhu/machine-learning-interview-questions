@@ -78,6 +78,7 @@
 - What is Cross-Entropy?
     - Answer: [Understanding Cross-Entropy in Machine Learning](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7331622952473452544-CQph)
 - What are Logits?
+    - Answer: [Understanding Logits in Machine Learning](https://x.com/amitiitbhu/status/1927927814923207146)
 - Explain Cross-Validation. Why is it used?
 - What are precision, recall, and F1-score?
 - What is anomaly detection?
