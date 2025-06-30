@@ -65,6 +65,7 @@
 - What is the difference between Classification and Regression?
     - Answer: [Classification Vs Regression](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-activity-7324687914074824704-KqCm)
 - Explain Overfitting and Underfitting. How can you prevent them?
+    - Answer: [Overfitting and Underfitting](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-datascience-deeplearning-activity-7345332515856949248-zJJy)
 - What Are L1 and L2 Loss Functions?
     - Answer: [What Are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
 - What is Regularization? Explain L1 (Lasso) and L2 (Ridge) regularization.
