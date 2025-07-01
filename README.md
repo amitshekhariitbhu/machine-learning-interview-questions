@@ -254,6 +254,7 @@
 - What is BPE (Byte Pair Encoding) in LLMs?
 - What is positional encoding in LLMs?
 - What is temperature in the context of LLMs?
+    - Answer: [What is temperature in the context of LLMs?](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-ai-llm-activity-7345772204992643072-nslv)
 - What is causal masking?
 - What are skip connections?
 - What is normalization?
