@@ -81,6 +81,7 @@
 - What are Logits?
     - Answer: [Understanding Logits in Machine Learning](https://x.com/amitiitbhu/status/1927927814923207146)
 - Explain Cross-Validation. Why is it used?
+    - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137)
 - What are precision, recall, and F1-score?
 - What is anomaly detection?
 - What is the difference between policy-based and value-based methods?
