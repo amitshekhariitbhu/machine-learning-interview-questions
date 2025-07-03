@@ -302,6 +302,8 @@
 - Design a Machine Learning System for Friends Recommendation.
 - Design a Machine Learning Product Recommendation System for an e-commerce platform.
 - How would you build a system to detect fraudulent transactions?
+- Multimodal Fusion Techniques in Machine Learning: Early Fusion vs Late Fusion
+    - Answer: [Multimodal Fusion Techniques in Machine Learning: Early Fusion vs Late Fusion](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-ai-deeplearning-activity-7346410935332282368-hmoN/)
 - How would you approach a time series forecasting problem?
 - How would you build a spam detection system?
 - Describe how you would implement an image classification system.
