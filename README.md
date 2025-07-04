@@ -280,6 +280,7 @@
 - How do you choose the right evaluation metric for a given problem?
 - How do you compare the performance of different models?
 - Explain cross-validation and its importance.
+    - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137)
 - What is Hyperparameter Tuning?
 - How do you evaluate unsupervised learning models?
 - How do you evaluate a clustering algorithm?
