@@ -249,7 +249,8 @@
 - Explain the attention mechanism in LLMs.
 - What are multi-head attention mechanisms? Why use multiple attention heads?
 - Explain the Query(Q), Key(K), and Value(V) in attention.
-- Explain the process of tokenization in LLMs.
+- Tokenization in Large Language Models (LLMs).
+    - Answer: [Tokenization in Large Language Models (LLMs)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7346774040784605186-ivoU)
 - What is subword tokenization?
 - What is BPE (Byte Pair Encoding) in LLMs?
 - What is positional encoding in LLMs?
