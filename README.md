@@ -253,7 +253,8 @@
     - Answer: [Tokenization in Large Language Models (LLMs)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7346774040784605186-ivoU)
 - What is subword tokenization?
 - What is BPE (Byte Pair Encoding) in LLMs?
-- What is positional encoding in LLMs?
+- What is positional embedding in LLMs?
+    - Answer: [Understanding Positional Embedding in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7347119540482265089-cTT1)
 - What is temperature in the context of LLMs?
     - Answer: [What is temperature in the context of LLMs?](https://www.linkedin.com/posts/pallavi-shekhar_machinelearning-ai-llm-activity-7345772204992643072-nslv)
 - What is causal masking?
