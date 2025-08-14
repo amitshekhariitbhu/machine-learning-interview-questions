@@ -26,6 +26,7 @@
 * [System Design and MLOps](#system-design-and-mlops)
 * [Probability and Statistics](#probability-and-statistics)
 * [Coding](#coding)
+* [Maths](#maths)
 * [Behavioral and Scenario-Based Questions](#behavioral-and-scenario-based-questions)
 
 ### Prepared and maintained by the **Founders** of [Outcome School](https://outcomeschool.com)
@@ -391,6 +392,11 @@
 - How would you use Pandas to load and clean data?
 - Implement k-nearest neighbors (KNN) from scratch.
 - Write code to calculate precision and recall.
+
+### Maths
+
+- Eigenvalues and Eigenvectors
+    - Answer: [Understanding Eigenvalues and Eigenvectors](https://x.com/amitiitbhu/status/1955895389225160877)
 
 ### Behavioral and Scenario-Based Questions
 
