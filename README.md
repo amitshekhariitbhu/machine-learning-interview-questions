@@ -12,7 +12,37 @@
 > - Deep Learning Engineer
 > - AI Engineer
 
+## Table of Contents
 
+* [Fundamentals of Machine Learning](#fundamentals-of-machine-learning)
+* [Algorithms](#algorithms)
+* [Data Preprocessing and Feature Engineering](#data-preprocessing-and-feature-engineering)
+* [Optimization](#optimization)
+* [Deep Learning](#deep-learning)
+* [NLP](#nlp)
+* [Computer Vision](#computer-vision)
+* [Large Language Model](#large-language-model)
+* [Model Evaluation](#model-evaluation)
+* [System Design and MLOps](#system-design-and-mlops)
+* [Probability and Statistics](#probability-and-statistics)
+* [Coding](#coding)
+* [Maths](#maths)
+* [Behavioral and Scenario-Based Questions](#behavioral-and-scenario-based-questions)
+
+### Prepared and maintained by the **Founder** of [Outcome School](https://outcomeschool.com): Amit Shekhar
+
+### Follow Amit Shekhar
+
+- [X/Twitter](https://twitter.com/amitiitbhu)
+- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
+- [GitHub](https://github.com/amitshekhariitbhu)
+
+### Follow Outcome School
+
+- [YouTube](https://youtube.com/@OutcomeSchool)
+- [X/Twitter](https://x.com/outcome_school)
+- [LinkedIn](https://www.linkedin.com/company/outcomeschool)
+- [GitHub](http://github.com/OutcomeSchool)
 
 ---
 
