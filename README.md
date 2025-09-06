@@ -11,6 +11,7 @@
 > - Data Scientist
 > - Deep Learning Engineer
 > - AI Engineer
+> - MLOps Engineer
 
 ## Table of Contents
 
