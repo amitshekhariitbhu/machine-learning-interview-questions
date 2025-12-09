@@ -63,7 +63,7 @@
 - What is Machine Learning?
     - Answer: [What is Machine Learning?](https://outcomeschool.com/blog/machine-learning)
 - Differentiate between Supervised and Unsupervised Learning.
-    - Answer: [Supervised vs Unsupervised Learning](https://www.linkedin.com/posts/outcomeschool_machinelearning-activity-7372597940286263296-IyLZ)
+    - Answer: [Supervised vs Unsupervised Learning](https://outcomeschool.com/blog/supervised-vs-unsupervised-learning)
 - What is Reinforcement Learning?
     - Answer: [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
 - What is Bias?
