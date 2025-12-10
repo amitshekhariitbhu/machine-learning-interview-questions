@@ -107,6 +107,7 @@
 - What are the key hyperparameters for XGBoost?
 - Explain Gradient Boosting and its advantages over Random Forests.
 - Explain how Logistic Regression differs from Linear Regression.
+    - Answer: [Linear Regression vs Logistic Regression](https://outcomeschool.com/blog/linear-regression-vs-logistic-regression)
 - How does logistic regression work?
 - Explain R-squared and adjusted R-squared.
 - How do you check for multicollinearity in regression models?
