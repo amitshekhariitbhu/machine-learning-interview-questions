@@ -266,6 +266,7 @@
     - Answer: [What is temperature in the context of LLMs?](https://x.com/amitiitbhu/status/1964990603927687493)
 - What is causal masking?
 - What are skip connections?
+    - Answer: [What residual (skip) connections do in Transformers](https://x.com/amitiitbhu/status/2008473617806553142)
 - What is normalization?
 - What is dropout, and how is it applied in LLMs?
 - Why does Attention use Softmax?
