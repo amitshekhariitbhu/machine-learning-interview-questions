@@ -268,6 +268,8 @@
 - What are skip connections?
 - What is normalization?
 - What is dropout, and how is it applied in LLMs?
+- Why does Attention use Softmax?
+    - Answer: [Why does Attention use Softmax?](https://x.com/amitiitbhu/status/2005495879571255670)
 - What does a vector database (Vector DB) store for LLM usage?
 - How do you improve inference speed in production LLM deployments?
 - Explain Prompting, Retrieval-Augmented Generation (RAG), and Fine-Tuning.
