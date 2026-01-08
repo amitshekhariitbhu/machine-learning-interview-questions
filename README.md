@@ -265,6 +265,7 @@
 - What is temperature in the context of LLMs?
     - Answer: [What is temperature in the context of LLMs?](https://x.com/amitiitbhu/status/1964990603927687493)
 - What is causal masking?
+    - Answer: [Causal Masking in Attention](https://outcomeschool.com/blog/causal-masking-in-attention)
 - What are skip connections?
     - Answer: [What residual (skip) connections do in Transformers](https://x.com/amitiitbhu/status/2008473617806553142)
 - What is normalization?
@@ -421,7 +422,7 @@
 
 ### License
 ```
-   Copyright (C) 2025 Outcome School
+   Copyright (C) 2026 Outcome School
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
