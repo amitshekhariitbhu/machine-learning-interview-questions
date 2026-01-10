@@ -247,6 +247,8 @@
 - What are the key components of a Transformer model?
 - What is self-attention, and how does it work in Transformers?
 - How does attention help capture long-range dependencies?
+- What Each Transformer Block Learns?
+    - Answer: [What Each Transformer Block Learns?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_llm-ai-deeplearning-activity-7415645622369804288-iNLT)
 - What is pre-training vs fine-tuning in LLMs?
 - What are some challenges in training LLMs?
 - What is zero-shot learning in the context of LLMs?
