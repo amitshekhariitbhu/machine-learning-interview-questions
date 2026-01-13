@@ -80,6 +80,8 @@
     - Answer: [Loss functions and Cost functions in Machine Learning](https://x.com/amitiitbhu/status/1925471830640664925)
 - What are dropouts?
     - Answer: [Dropout in Machine Learning](https://x.com/amitiitbhu/status/1925587392418787493)
+- What is a Perceptron?
+    - Answer: [Perceptron in Machine Learning](https://x.com/amitiitbhu/status/2011100039545078038)
 - Explain Multilayer Perception (MLP).
     - Answer: [Understanding Multilayer Perceptron (MLP) Neural Network](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-deeplearning-neuralnetwork-activity-7331528906673401857-bpqL)
 - What is Cross-Entropy?
