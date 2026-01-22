@@ -46,6 +46,13 @@
 - [LinkedIn](https://www.linkedin.com/company/outcomeschool)
 - [GitHub](http://github.com/OutcomeSchool)
 
+## I teach at Outcome School
+
+- AI and Machine Learning
+- Android
+
+Join Outcome School and get a high-paying tech job: [Outcome School](https://outcomeschool.com)
+
 ---
 
 > **Note: We will keep updating this with new questions and answers.**
