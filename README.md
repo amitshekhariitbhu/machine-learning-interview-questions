@@ -7,15 +7,16 @@
 > Machine Learning Interview Questions and Answers - Your Cheat Sheet For Machine Learning Interview
 > 
 > These interview questions and answers are helpful for roles such as:
-> - Machine Learning Engineer
-> - Data Scientist
-> - Deep Learning Engineer
 > - AI Engineer
 > - Gen AI Engineer
 > - MLOps Engineer
+> - Machine Learning Engineer
+> - Data Scientist
+> - Deep Learning Engineer
 
 ## Table of Contents
 
+* [AI Engineering](#ai-engineering)
 * [Fundamentals of Machine Learning](#fundamentals-of-machine-learning)
 * [Algorithms](#algorithms)
 * [Data Preprocessing and Feature Engineering](#data-preprocessing-and-feature-engineering)
@@ -58,6 +59,17 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 > **Note: We will keep updating this with new questions and answers.**
 
 ---
+
+### AI Engineering
+
+- LLM
+- RAG
+- MCP
+- Agent
+- Fine-tuning
+- Quantization
+
+Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineering Overview by Amit Shekhar](https://www.youtube.com/watch?v=lnfWvX66FUk)
 
 ### Fundamentals of Machine Learning
 
