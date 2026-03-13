@@ -181,7 +181,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 ### Deep Learning
 
 - What are neural networks?
-- Explain Feedforward Neural Network.
+- Explain the Feedforward Neural Network.
 - What are forward propagation and backward propagation?
 - What is backpropagation?
 - Can you name and explain a few hyperparameters used for training a neural network?
