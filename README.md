@@ -308,6 +308,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 
 - What are precision, recall, F1 score, and accuracy?
 - What is the confusion matrix, and how do you interpret it?
+    - Answer: [Confusion Matrix](https://www.linkedin.com/posts/pallavi-shekhar_ai-ml-activity-7438197172992606208-oEUc)
 - What are common evaluation metrics for Classification?
 - When would you use accuracy vs other metrics?
 - When would you use log loss vs accuracy?
