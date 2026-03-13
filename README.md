@@ -297,6 +297,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
     - Answer: [Why does Attention use Softmax?](https://x.com/amitiitbhu/status/2005495879571255670)
 - What does a vector database (Vector DB) store for LLM usage?
 - How do you improve inference speed in production LLM deployments?
+- What is the context window in LLM?
+    - Answer: [Context window in LLM](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c/)
 - Explain Prompting, Retrieval-Augmented Generation (RAG), and Fine-Tuning.
    - Answer: [Prompting, RAG, and Fine-Tuning](https://www.linkedin.com/posts/amit-shekhar-iitbhu_lets-understand-prompting-rag-and-fine-tuning-activity-7170655100888109056-cPie)
 
