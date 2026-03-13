@@ -165,7 +165,9 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - What is stochastic gradient descent (SGD)?
 - What are vanishing gradients?
 - What is a learning rate? How to choose a good one?
+    - Answer: [Learning Rate](https://www.linkedin.com/posts/amit-shekhar-iitbhu_ml-ai-activity-7438148910260404224-0bxL)
 - How does the learning rate affect model training?
+    - Answer: [Learning Rate](https://www.linkedin.com/posts/amit-shekhar-iitbhu_ml-ai-activity-7438148910260404224-0bxL)
 - How do you approach hyperparameter tuning?
 - What is model quantization, and when would you use it?
 - How do you ensure fairness and reduce bias in ML models?
