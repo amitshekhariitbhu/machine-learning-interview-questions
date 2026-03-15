@@ -374,7 +374,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Cloud vs on-device Model Deployment.
     - Answer: [Cloud vs On-Device Model Deployment](https://x.com/outcome_school/status/1965643330076991621)
 - Tell about the Model Compression Techniques.
-    - Answer: [Model Compression Techniques](https://x.com/amitiitbhu/status/1965779182132265423)
+    - Answer: [Model Optimization](https://www.linkedin.com/posts/pallavi-shekhar_ai-machinelearning-modeloptimization-activity-7438824172996247552-x7Wt)
 
 ### Probability and Statistics
 
