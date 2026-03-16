@@ -286,6 +286,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
     - Answer: [Tokenization in Large Language Models (LLMs)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7346774040784605186-ivoU)
 - What is subword tokenization?
 - What is BPE (Byte Pair Encoding) in LLMs?
+    - Answer: [BPE (Byte Pair Encoding) in LLMs](https://www.linkedin.com/posts/pallavi-shekhar_ai-llm-machinelearning-activity-7439218251714166784-XA4O)
 - What is positional embedding in LLMs?
     - Answer: [Understanding Positional Embedding in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7347119540482265089-cTT1)
 - What is temperature in the context of LLMs?
