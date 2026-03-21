@@ -50,7 +50,6 @@
 ## I teach at Outcome School
 
 - [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning)
-- [Android](https://outcomeschool.com/program/android)
 
 Join Outcome School and get a high-paying tech job: [Outcome School](https://outcomeschool.com)
 
@@ -69,7 +68,7 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 - Fine-tuning
 - Quantization
 
-Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineering Overview by Amit Shekhar](https://www.youtube.com/watch?v=lnfWvX66FUk)
+Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 
 ### Fundamentals of Machine Learning
 
