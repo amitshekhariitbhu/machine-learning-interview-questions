@@ -70,6 +70,8 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 
 Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 
+For all AI Engineering Interview – Questions and Answers: Refer to [AI Engineering Interview Questions and Answers](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
+
 ### Fundamentals of Machine Learning
 
 - Explain Epoch, Batch, Batch Size, and Iteration.
