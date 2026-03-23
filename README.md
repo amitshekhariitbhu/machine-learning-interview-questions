@@ -305,7 +305,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is the context window in LLM?
     - Answer: [Context window in LLM](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c/)
 - Explain Prompting, Retrieval-Augmented Generation (RAG), and Fine-Tuning.
-   - Answer: [Prompting, RAG, and Fine-Tuning](https://www.linkedin.com/posts/amit-shekhar-iitbhu_lets-understand-prompting-rag-and-fine-tuning-activity-7170655100888109056-cPie)
+   - Answer: [Prompting, RAG, and Fine-Tuning](https://outcomeschool.substack.com/p/prompting-vs-rag-vs-fine-tuning)
 
 ### Model Evaluation
 
