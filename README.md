@@ -185,7 +185,9 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are neural networks?
 - Explain the Feedforward Neural Network.
 - What are forward propagation and backward propagation?
+    - Answer: [Math Behind Backpropagation](https://outcomeschool.com/blog/math-behind-backpropagation)
 - What is backpropagation?
+    - Answer: [Math Behind Backpropagation](https://outcomeschool.com/blog/math-behind-backpropagation)
 - Can you name and explain a few hyperparameters used for training a neural network?
 - What is the advantage of deep learning over traditional machine learning?
 - What are activation functions, and why are they used?
