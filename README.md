@@ -204,7 +204,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is a generative model, and how does it differ from a discriminative model?
 - Can you explain how a generative model works?
 - Explain Encoder-Decoder Architecture.
-    - Answer: [Encoder-Decoder Architecture Explained](https://x.com/amitiitbhu/status/1925410667043201409)
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is Latent Space?
 - What are autoencoders? Explain their layers and practical uses.
 - What is a Variational Autoencoder (VAE), and how is it different from a traditional autoencoder?
@@ -226,6 +226,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are the main gates in LSTM and their roles?
 - How to identify exploding gradient issues in your model?
 - What is a Transformer architecture, and what makes it different from CNNs and RNNs?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is the Attention mechanism in deep learning, and why is it significant?
 - What is the basic difference between LSTM and Transformers?
 - Why does Diffusion work better than Auto-Regression?
@@ -234,11 +235,13 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 ### NLP
 
 - What are the advantages of Transformers over traditional sequence-to-sequence models?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What are the limitations of Transformers, and how can they be addressed?
 - What is BERT, and how does it improve language understanding?
 - How are Transformers trained (pre-training and fine-tuning)?
 - Explain transfer learning in the context of Transformers.
 - Describe the process of text generation using Transformer-based language models.
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What are Seq2Seq models?
 - Compare N-gram models and deep learning models (trade-offs).
 - What is the n-gram model?
@@ -270,12 +273,13 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 ### Large Language Model
 
 - What is a Large Language Model (LLM), and how does it work?
-- What are Transformer Models and how do they work?
-- What are the key components of a Transformer model?
-- What is self-attention, and how does it work in Transformers?
-- How does attention help capture long-range dependencies?
+    - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
+- What is the Transformer architecture and how does it work?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
+- What are the key components of the Transformer architecture?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What Each Transformer Block Learns?
-    - Answer: [What Each Transformer Block Learns?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_llm-ai-deeplearning-activity-7415645622369804288-iNLT)
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - Why do we scale the dot product attention by √dₖ in the Transformer architecture?
     - Answer: [Math behind √dₖ Scaling Factor in Attention](https://outcomeschool.com/blog/scaling-dot-product-attention)
 - What is pre-training vs fine-tuning in LLMs?
@@ -284,9 +288,15 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How do you handle bias and fairness in LLMs?
 - What are some real-world applications of LLMs in business and tech?
 - How does the Transformer architecture improve LLM performance over RNNs?
-- Explain the attention mechanism in LLMs.
-- What are multi-head attention mechanisms? Why use multiple attention heads?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - Explain the Query(Q), Key(K), and Value(V) in attention.
+    - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
+- What is self-attention, and how does it work in Transformers?
+    - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
+- What are multi-head attention mechanisms? Why use multiple attention heads?
+    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
+- How does attention help capture long-range dependencies?
+    - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
 - Tokenization in Large Language Models (LLMs).
     - Answer: [Tokenization in Large Language Models (LLMs)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7346774040784605186-ivoU)
 - What is subword tokenization?
