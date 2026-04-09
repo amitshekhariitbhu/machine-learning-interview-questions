@@ -320,6 +320,10 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Context window in LLM](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c/)
 - Explain Prompting, Retrieval-Augmented Generation (RAG), and Fine-Tuning.
    - Answer: [Prompting, RAG, and Fine-Tuning](https://outcomeschool.substack.com/p/prompting-vs-rag-vs-fine-tuning)
+- What is Mixture of Experts (MoE), and how does it work in models like Mixtral?
+    - Answer: [Mixture of Experts Explained](https://outcomeschool.com/blog/mixture-of-experts)
+- What is the difference between dense and sparse models?
+    - Answer: [Mixture of Experts Explained](https://outcomeschool.com/blog/mixture-of-experts)
 
 ### Model Evaluation
 
