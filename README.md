@@ -184,6 +184,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 
 - What are neural networks?
 - Explain the Feedforward Neural Network.
+    - Answer: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
 - What are forward propagation and backward propagation?
     - Answer: [Math Behind Backpropagation](https://outcomeschool.com/blog/math-behind-backpropagation)
 - What is backpropagation?
@@ -303,6 +304,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - How does attention help capture long-range dependencies?
     - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture) and [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
+- What are Feed-Forward Networks in LLMs?
+    - Answer: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
 - Tokenization in Large Language Models (LLMs).
     - Answer: [Tokenization in Large Language Models (LLMs)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7346774040784605186-ivoU)
 - What is subword tokenization?
