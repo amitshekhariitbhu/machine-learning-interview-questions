@@ -333,6 +333,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Mixture of Experts Explained](https://outcomeschool.com/blog/mixture-of-experts)
 - What is the difference between dense and sparse models?
     - Answer: [Mixture of Experts Explained](https://outcomeschool.com/blog/mixture-of-experts)
+- Transformers work on text, so can they also understand images?
+    - Answer: [Decoding Vision Transformer (ViT)](https://outcomeschool.com/blog/decoding-vision-transformer-vit)
 
 ### Model Evaluation
 
