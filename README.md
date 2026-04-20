@@ -105,7 +105,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain Multilayer Perception (MLP).
     - Answer: [Understanding Multilayer Perceptron (MLP) Neural Network](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-deeplearning-neuralnetwork-activity-7331528906673401857-bpqL)
 - What is Cross-Entropy?
-    - Answer: [Understanding Cross-Entropy in Machine Learning](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7331622952473452544-CQph)
+    - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
 - What are Logits?
     - Answer: [Understanding Logits in Machine Learning](https://x.com/amitiitbhu/status/1927927814923207146)
 - Explain Cross-Validation. Why is it used?
