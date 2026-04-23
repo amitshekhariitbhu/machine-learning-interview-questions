@@ -324,6 +324,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Causal Masking in Attention](https://outcomeschool.com/blog/causal-masking-in-attention)
 - What are skip connections?
     - Answer: [What residual (skip) connections do in Transformers](https://x.com/amitiitbhu/status/2008473617806553142)
+- How does Rotary Position Embedding (RoPE) work, and why is it preferred over learned positional embeddings?
+    - Answer: [Math Behind RoPE (Rotary Position Embedding)](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding)
 - What is normalization?
 - What is dropout, and how is it applied in LLMs?
 - Why does Attention use Softmax?
