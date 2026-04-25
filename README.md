@@ -327,6 +327,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How does Rotary Position Embedding (RoPE) work, and why is it preferred over learned positional embeddings?
     - Answer: [Math Behind RoPE (Rotary Position Embedding)](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding)
 - What is normalization?
+ - Explain RMSNorm (Root Mean Square Layer Normalization)
+    - Answer: [RMSNorm (Root Mean Square Layer Normalization)](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
 - What is dropout, and how is it applied in LLMs?
 - Why does Attention use Softmax?
     - Answer: [Why does Attention use Softmax?](https://x.com/amitiitbhu/status/2005495879571255670)
