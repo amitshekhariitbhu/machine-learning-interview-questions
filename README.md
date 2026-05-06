@@ -292,6 +292,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Paged Attention in LLMs](https://outcomeschool.com/blog/paged-attention-in-llms)
 - What is Flash Attention?
     - Answer: [Decoding Flash Attention in LLMs](https://outcomeschool.com/blog/decoding-flash-attention)
+- What is speculative decoding, and how does it speed up inference?
+    - Answer: [Speculative Decoding](https://outcomeschool.com/blog/speculative-decoding)
 - What is pre-training vs fine-tuning in LLMs?
 - What are some challenges in training LLMs?
 - What is zero-shot learning in the context of LLMs?
