@@ -350,6 +350,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Mixture of Experts Explained](https://outcomeschool.com/blog/mixture-of-experts)
 - Transformers work on text, so can they also understand images?
     - Answer: [Decoding Vision Transformer (ViT)](https://outcomeschool.com/blog/decoding-vision-transformer-vit)
+- Small Language Models (SLMs)
+    - Answer: [Small Language Models (SLMs)](https://outcomeschool.com/blog/small-language-models-slms)
 
 ### Model Evaluation
 
