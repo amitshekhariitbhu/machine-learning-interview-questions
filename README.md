@@ -296,6 +296,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Decoding Flash Attention in LLMs](https://outcomeschool.com/blog/decoding-flash-attention)
 - What is speculative decoding, and how does it speed up inference?
     - Answer: [Speculative Decoding](https://outcomeschool.com/blog/speculative-decoding)
+- How does continuous batching improve LLM inference throughput?
+    - Answer: [Continuous Batching in LLMs](https://outcomeschool.com/blog/continuous-batching-in-llms)
 - What is pre-training vs fine-tuning in LLMs?
 - What are some challenges in training LLMs?
 - What is zero-shot learning in the context of LLMs?
