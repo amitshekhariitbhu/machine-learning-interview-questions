@@ -352,6 +352,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Decoding Vision Transformer (ViT)](https://outcomeschool.com/blog/decoding-vision-transformer-vit)
 - Small Language Models (SLMs)
     - Answer: [Small Language Models (SLMs)](https://outcomeschool.com/blog/small-language-models-slms)
+- Large Reasoning Models (LRMs)
+    - Answer: [Large Reasoning Models (LRMs)](https://outcomeschool.com/blog/large-reasoning-models)
 
 ### Model Evaluation
 
