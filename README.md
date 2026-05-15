@@ -202,6 +202,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is L1/L2 regularization, and how does it affect a neural network?
    - Answer: [Regularization In Machine Learning](https://outcomeschool.com/blog/regularization-in-machine-learning)
 - What is batch normalization, and why is it used?
+   - Answer: [Batch Normalization vs Layer Normalization](https://outcomeschool.com/blog/batch-normalization-vs-layer-normalization)
 - What are the hyperparameters for batch normalization that can be optimized?
 - What is parameter sharing in deep learning?
 - What is representation learning, and why is it useful?
