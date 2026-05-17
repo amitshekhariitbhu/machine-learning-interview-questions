@@ -359,6 +359,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
 - Proximal Policy Optimization (PPO)
     - Answer: [Proximal Policy Optimization (PPO)](https://outcomeschool.com/blog/proximal-policy-optimization-ppo)
+- Direct Preference Optimization (DPO)
+    - Answer: [Direct Preference Optimization (DPO)](https://outcomeschool.com/blog/direct-preference-optimization-dpo)
 
 ### Model Evaluation
 
