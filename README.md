@@ -117,6 +117,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain the concept of exploration vs exploitation.
 - Explain the curse of dimensionality and how to address it.
 - Explain Local Loss, Focal Loss, and Gradient Blending in the context of Multi-Task Learning.
+- Explain Contrastive Learning
+    - Answer: [Contrastive Learning](https://outcomeschool.com/blog/contrastive-learning)
 
 ### Algorithms
 
