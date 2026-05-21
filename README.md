@@ -396,6 +396,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 
 ### System Design and MLOps
 
+- Design an AI Coding Agent.
 - Design a Machine Learning System for YouTube Video Recommendation.
 - Design a Machine Learning System for YouTube Video Search.
 - Design a Machine Learning System for Personalized Content Feed.
