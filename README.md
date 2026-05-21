@@ -391,6 +391,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How do you evaluate a clustering algorithm?
 - What metrics would you use for a recommendation system?
 - What is A/B testing in the context of ML?
+- LLM as a Judge
+    - Answer: [LLM as a Judge](https://outcomeschool.com/blog/llm-as-a-judge) 
 
 ### System Design and MLOps
 
