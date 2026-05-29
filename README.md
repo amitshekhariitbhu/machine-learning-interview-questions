@@ -311,7 +311,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain the Query(Q), Key(K), and Value(V) in attention.
     - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
 - What is self-attention, and how does it work in Transformers?
-    - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
+    - Answer: [Self Attention in Transformers](https://outcomeschool.com/blog/self-attention-in-transformers)
 - What are multi-head attention mechanisms? Why use multiple attention heads?
     - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - How does attention help capture long-range dependencies?
