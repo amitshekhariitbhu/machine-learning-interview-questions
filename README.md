@@ -315,7 +315,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is Cross Attention in Transformers?
     - Answer: [Cross Attention in Transformers](https://outcomeschool.com/blog/cross-attention-in-transformers)
 - What are multi-head attention mechanisms? Why use multiple attention heads?
-    - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
+    - Answer: [Multi-Head Attention in Transformers](https://outcomeschool.com/blog/multi-head-attention-in-transformers)
 - How does attention help capture long-range dependencies?
     - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture) and [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
 - What is Grouped-Query Attention (GQA), and how does it differ from Multi-Head Attention (MHA)?
