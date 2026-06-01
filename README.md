@@ -369,6 +369,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
 - Recursive Language Models (RLMs)
     - Answer: [Recursive Language Models (RLMs)](https://outcomeschool.com/blog/recursive-language-models)
+- Continual Learning in LLMs
+    - Answer: [Continual Learning in LLMs](https://outcomeschool.com/blog/continual-learning-in-llms)
 
 ### Model Evaluation
 
