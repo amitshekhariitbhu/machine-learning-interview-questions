@@ -215,6 +215,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is Latent Space?
 - What are autoencoders? Explain their layers and practical uses.
 - What is a Variational Autoencoder (VAE), and how is it different from a traditional autoencoder?
+    - Answer: [Variational Autoencoders](https://outcomeschool.com/blog/variational-autoencoders)
 - How does VAE impose a probabilistic structure on the latent space, and why is that important?
 - What is the architecture of a Generative Adversarial Network (GAN)?
 - What are the roles of the generator and discriminator in a GAN?
