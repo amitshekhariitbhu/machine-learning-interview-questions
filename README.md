@@ -240,6 +240,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is the Attention mechanism in deep learning, and why is it significant?
 - What is the basic difference between LSTM and Transformers?
+- Diffusion Models
+    - Answer: [Diffusion Models](https://outcomeschool.com/blog/diffusion-models)
 - Why does Diffusion work better than Auto-Regression?
 - Explain transfer learning and when to use it.
 - What are Multimodal AI models, and how do they process different types of data?
