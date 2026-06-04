@@ -218,8 +218,11 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Variational Autoencoders](https://outcomeschool.com/blog/variational-autoencoders)
 - How does VAE impose a probabilistic structure on the latent space, and why is that important?
 - What is the architecture of a Generative Adversarial Network (GAN)?
+    - Answer: [Generative Adversarial Networks (GANs)](https://outcomeschool.com/blog/generative-adversarial-networks)
 - What are the roles of the generator and discriminator in a GAN?
+    - Answer: [Generative Adversarial Networks (GANs)](https://outcomeschool.com/blog/generative-adversarial-networks)
 - What is mode collapse in GANs, and how can it be mitigated?
+    - Answer: [Generative Adversarial Networks (GANs)](https://outcomeschool.com/blog/generative-adversarial-networks)
 - How are GANs used in image synthesis or image-to-image translation tasks?
 - Explain Convolutional Neural Networks (CNN).
 - Explain filters in CNN.
