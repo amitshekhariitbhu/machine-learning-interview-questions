@@ -99,7 +99,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are Loss Functions and Cost Functions? Explain the key difference between them.
     - Answer: [Loss functions and Cost functions in Machine Learning](https://x.com/amitiitbhu/status/1925471830640664925)
 - What are dropouts?
-    - Answer: [Dropout in Machine Learning](https://x.com/amitiitbhu/status/1925587392418787493)
+    - Answer: [Dropout in Neural Networks](https://outcomeschool.com/blog/dropout-in-neural-networks)
 - What is a Perceptron?
     - Answer: [Perceptron in Machine Learning](https://x.com/amitiitbhu/status/2011100039545078038)
 - Explain Multilayer Perception (MLP).
@@ -200,7 +200,9 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain Sigmoid, Tanh, ReLU, LeakyReLU, and Softmax activation functions with their pros and cons.
 - Why are Sigmoid and Tanh not preferred in the hidden layers of a neural network?
 - What is dropout, and why is it effective?
+    - Answer: [Dropout in Neural Networks](https://outcomeschool.com/blog/dropout-in-neural-networks)
 - What is the effect of dropout on training and inference speed?
+    - Answer: [Dropout in Neural Networks](https://outcomeschool.com/blog/dropout-in-neural-networks)
 - What is L1/L2 regularization, and how does it affect a neural network?
    - Answer: [Regularization In Machine Learning](https://outcomeschool.com/blog/regularization-in-machine-learning)
 - What is batch normalization, and why is it used?
@@ -347,6 +349,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
  - Explain RMSNorm (Root Mean Square Layer Normalization)
     - Answer: [RMSNorm (Root Mean Square Layer Normalization)](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
 - What is dropout, and how is it applied in LLMs?
+    - Answer: [Dropout in Neural Networks](https://outcomeschool.com/blog/dropout-in-neural-networks)
 - Why does Attention use Softmax?
     - Answer: [Why does Attention use Softmax?](https://x.com/amitiitbhu/status/2005495879571255670)
 - What does a vector database (Vector DB) store for LLM usage?
