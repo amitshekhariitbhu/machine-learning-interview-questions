@@ -432,6 +432,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What approach would you take for a sentiment analysis task?
 - How would you design a customer churn prediction model?
 - What would be your approach to ranking search results?
+    - Answer: [How does a Reranker work?](https://outcomeschool.com/blog/how-does-a-reranker-work)
 - How would you build a system to detect anomalies in network traffic?
 - How do you choose the right machine learning algorithm?
 - What is model drift, and how do you handle it?
