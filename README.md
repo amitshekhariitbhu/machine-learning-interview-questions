@@ -411,6 +411,18 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 
 ### System Design and MLOps
 
+- Design ChatGPT: Training to Serving (End to End)
+- Design a RAG System (Chat with Your Documents)
+- Design Memory for a Personal AI Assistant
+- Design a Deep Research Agent
+- Design a Multi-Agent Customer Support System
+- Design an On-Device AI Assistant
+- Design a Multimodal Search System (Text, Image, Video)
+- Design an LLM Inference Platform (vLLM-as-a-Service)
+- Design an LLM Evaluation Platform
+- Design a Text-to-Image Generation Service (Midjourney-like)
+- Design a Music Generation Service (Suno-like)
+- Design a Video Generation Service (Sora-like)
 - Design an AI Coding Agent.
 - Design a Machine Learning System for YouTube Video Recommendation.
 - Design a Machine Learning System for YouTube Video Search.
