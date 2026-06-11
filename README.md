@@ -380,6 +380,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Recursive Language Models (RLMs)](https://outcomeschool.com/blog/recursive-language-models)
 - Continual Learning in LLMs
     - Answer: [Continual Learning in LLMs](https://outcomeschool.com/blog/continual-learning-in-llms)
+- How does Knowledge Distillation work?
+    - Answer: [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
 
 ### Model Evaluation
 
