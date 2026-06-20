@@ -248,6 +248,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain transfer learning and when to use it.
 - What are Multimodal AI models, and how do they process different types of data?
     - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
+- How do World Models work?
+    - Answer: [How do World Models work?](https://outcomeschool.com/blog/how-do-world-models-work)
 
 ### NLP
 
