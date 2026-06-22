@@ -250,6 +250,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
 - How do World Models work?
     - Answer: [How do World Models work?](https://outcomeschool.com/blog/how-do-world-models-work)
+- How do Diffusion Language Models (DLMs) work?
+    - Answer: [How do Diffusion Language Models (DLMs) work?](https://outcomeschool.com/blog/how-do-diffusion-language-models-dlms-work)
 
 ### NLP
 
