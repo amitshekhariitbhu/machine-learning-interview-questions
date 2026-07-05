@@ -389,6 +389,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Continual Learning in LLMs](https://outcomeschool.com/blog/continual-learning-in-llms)
 - How does Knowledge Distillation work?
     - Answer: [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
+- Prefill vs Decode
+    - Answer: [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization)
 
 ### Model Evaluation
 
