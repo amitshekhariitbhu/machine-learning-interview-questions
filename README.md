@@ -176,7 +176,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Learning Rate](https://www.linkedin.com/posts/amit-shekhar-iitbhu_ml-ai-activity-7438148910260404224-0bxL)
 - How do you approach hyperparameter tuning?
 - What is model quantization, and when would you use it?
-    - Answer: [Quantization](https://www.linkedin.com/posts/pallavi-shekhar_quantization-is-how-you-run-a-100-gb-model-activity-7437347098494369792-dR4l)
+    - Answer: [Quantization](https://outcomeschool.com/blog/how-does-model-quantization-work)
 - How do you ensure fairness and reduce bias in ML models?
 - Explain Grid Search vs Random Search vs Bayesian Optimization.
 - Explain TPE hyperparameter optimization. 
