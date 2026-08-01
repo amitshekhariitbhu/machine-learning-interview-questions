@@ -111,6 +111,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain Cross-Validation. Why is it used?
     - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137)
 - What are precision, recall, and F1-score?
+    - Answer: [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
 - What is anomaly detection?
 - What is the difference between policy-based and value-based methods?
 - What is Q-Learning?
