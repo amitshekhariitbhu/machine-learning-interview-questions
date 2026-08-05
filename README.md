@@ -120,6 +120,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain Local Loss, Focal Loss, and Gradient Blending in the context of Multi-Task Learning.
 - Explain Contrastive Learning
     - Answer: [Contrastive Learning](https://outcomeschool.com/blog/contrastive-learning)
+- What is Generative AI?
+    - Answer: [What is Generative AI?](https://outcomeschool.com/blog/what-is-generative-ai)
 
 ### Algorithms
 
