@@ -217,6 +217,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Can you explain how a generative model works?
 - Explain Encoder-Decoder Architecture.
     - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
+- What is the difference between encoder-only, decoder-only, and encoder-decoder Transformer architectures?
+    - Answer: [Encoder vs Decoder in Transformers](https://outcomeschool.com/blog/encoder-vs-decoder-in-transformers)
 - What is Latent Space?
 - What are autoencoders? Explain their layers and practical uses.
 - What is a Variational Autoencoder (VAE), and how is it different from a traditional autoencoder?
