@@ -480,7 +480,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain MLOps and its key components.
 - What is a feature store, and why is it important?
 - Cloud vs on-device Model Deployment.
-    - Answer: [Cloud vs On-Device Model Deployment](https://x.com/outcome_school/status/1965643330076991621)
+    - Answer: [Cloud vs On-Device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
 - Tell about the Model Compression Techniques.
     - Answer: [Model Optimization](https://www.linkedin.com/posts/pallavi-shekhar_ai-machinelearning-modeloptimization-activity-7438824172996247552-x7Wt)
 
