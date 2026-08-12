@@ -281,6 +281,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are word embeddings?
 - What is Word2Vec?
 - What is t-SNE, and how is it used for NLP?
+- Explain ColBERT
+    - Answer: [Decoding ColBERT](https://outcomeschool.com/blog/decoding-colbert)
 
 ### Computer Vision
 
