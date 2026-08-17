@@ -257,6 +257,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [How do World Models work?](https://outcomeschool.com/blog/how-do-world-models-work)
 - How do Diffusion Language Models (DLMs) work?
     - Answer: [How do Diffusion Language Models (DLMs) work?](https://outcomeschool.com/blog/how-do-diffusion-language-models-dlms-work)
+- Decoding Deep RL from Human Preferences
+    - Answer: [Decoding Deep RL from Human Preferences](https://outcomeschool.com/blog/decoding-deep-rl-from-human-preferences)
 
 ### NLP
 
