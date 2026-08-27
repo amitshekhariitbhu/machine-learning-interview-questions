@@ -240,6 +240,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is a Recurrent Neural Network (RNN)?
    - Answer: [Recurrent Neural Network](https://outcomeschool.com/blog/recurrent-neural-network)
 - What are the limitations of RNNs, and how are they solved?
+   - Answer: [How do RNNs and Transformers differ?](https://outcomeschool.com/blog/how-do-rnns-and-transformers-differ)
 - What are LSTM and GRU? How do they solve long-term dependency issues?
 - What are the main gates in LSTM and their roles?
 - How to identify exploding gradient issues in your model?
