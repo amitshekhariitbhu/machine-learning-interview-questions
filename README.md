@@ -403,6 +403,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt)
 - Prefill vs Decode
     - Answer: [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization)
+- How does Sliding Window Attention work?
+    - Answer: [How does Sliding Window Attention work?](https://outcomeschool.com/blog/how-does-sliding-window-attention-work)
 
 ### Model Evaluation
 
@@ -435,16 +437,21 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Design ChatGPT: Training to Serving (End to End)
 - Design a RAG System (Chat with Your Documents)
 - Design Memory for a Personal AI Assistant
+    - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory)
 - Design a Deep Research Agent
 - Design a Multi-Agent Customer Support System
+    - Answer: [Multi-Agent Systems](https://outcomeschool.com/blog/multi-agent-systems)
 - Design an On-Device AI Assistant
 - Design a Multimodal Search System (Text, Image, Video)
 - Design an LLM Inference Platform (vLLM-as-a-Service)
+    - Answer: [How does vLLM work?](https://outcomeschool.com/blog/how-does-vllm-work) and [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
 - Design an LLM Evaluation Platform
+    - Answer: [LLM Evaluation](https://outcomeschool.com/blog/llm-evaluation)
 - Design a Text-to-Image Generation Service (Midjourney-like)
 - Design a Music Generation Service (Suno-like)
 - Design a Video Generation Service (Sora-like)
 - Design an AI Coding Agent.
+    - Answer: [How does Claude Code work?](https://outcomeschool.com/blog/how-does-claude-code-work) and [How does Cursor work?](https://outcomeschool.com/blog/how-does-cursor-work)
 - Design a Machine Learning System for YouTube Video Recommendation.
 - Design a Machine Learning System for YouTube Video Search.
 - Design a Machine Learning System for Personalized Content Feed.
