@@ -405,6 +405,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization)
 - How does Sliding Window Attention work?
     - Answer: [How does Sliding Window Attention work?](https://outcomeschool.com/blog/how-does-sliding-window-attention-work)
+- How do Attention Sinks work?
+    - Answer: [How do Attention Sinks work?](https://outcomeschool.com/blog/how-do-attention-sinks-work)
 
 ### Model Evaluation
 
