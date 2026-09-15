@@ -352,7 +352,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is positional embedding in LLMs?
     - Answer: [Understanding Positional Embedding in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7347119540482265089-cTT1)
 - What is temperature in the context of LLMs?
-    - Answer: [What is temperature in the context of LLMs?](https://x.com/amitiitbhu/status/1964990603927687493)
+    - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
 - What is causal masking?
     - Answer: [Causal Masking in Attention](https://outcomeschool.com/blog/causal-masking-in-attention)
 - What are skip connections?
