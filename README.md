@@ -540,12 +540,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 
 - Write a Python function to compute the mean squared error (MSE).
     - Answer: [Implement Mean Squared Error (MSE) cost function](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/mean-squared-error/mean_squared_error.py)
-- Write a Python function to compute the mean absolute error (MAE).
-    - Answer: [Implement Mean Absolute Error (MAE) cost function](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/mean-absolute-error/mean_absolute_error.py)
 - Implement a simple linear regression model from scratch.
     - Answer: [Implement Linear Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/linear-regression/linear_regression.py)
-- Implement a simple logistic regression model from scratch.
-    - Answer: [Implement Logistic Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/logistic-regression/logistic_regression.py)
 - Implement K-Nearest Neighbors (KNN).
     - Answer: [Implement K-Nearest Neighbors (KNN)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/knn/knn.py)
 - Implement Sigmoid, Tanh, ReLU, LeakyReLU, and Softmax Activation Functions.
