@@ -436,6 +436,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 
 ### System Design and MLOps
 
+- Design a Real-Time Voice AI Agent
+    - Answer: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent)
 - Design ChatGPT: Training to Serving (End to End)
 - Design a RAG System (Chat with Your Documents)
 - Design Memory for a Personal AI Assistant
