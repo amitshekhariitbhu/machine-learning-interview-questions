@@ -345,8 +345,9 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are Feed-Forward Networks in LLMs?
     - Answer: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
 - Tokenization in Large Language Models (LLMs).
-    - Answer: [Tokenization in Large Language Models (LLMs)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7346774040784605186-ivoU)
+    - Answer: [Tokenization in Large Language Models (LLMs)](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7346774040784605186-ivoU) and [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
 - What is subword tokenization?
+    - Answer: [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
 - What is BPE (Byte Pair Encoding) in LLMs?
     - Answer: [BPE (Byte Pair Encoding) in LLMs](https://www.linkedin.com/posts/pallavi-shekhar_ai-llm-machinelearning-activity-7439218251714166784-XA4O)
 - What is positional embedding in LLMs?
