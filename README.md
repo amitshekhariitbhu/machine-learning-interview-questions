@@ -444,7 +444,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Design ChatGPT: Training to Serving (End to End)
 - Design a RAG System (Chat with Your Documents)
 - Design Memory for a Personal AI Assistant
-    - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory)
+    - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory) and [How does ChatGPT remember you?](https://outcomeschool.com/blog/how-does-chatgpt-remember-you)
 - Design a Deep Research Agent
 - Design a Multi-Agent Customer Support System
     - Answer: [Multi-Agent Systems](https://outcomeschool.com/blog/multi-agent-systems)
