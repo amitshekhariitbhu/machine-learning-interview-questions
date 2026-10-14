@@ -354,6 +354,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Understanding Positional Embedding in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-datascience-deeplearning-activity-7347119540482265089-cTT1)
 - What is temperature in the context of LLMs?
     - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
+- Why do LLMs hallucinate?
+    - Answer: [Why Do LLMs Hallucinate? The Token-Level Explanation](https://outcomeschool.com/blog/why-do-llms-hallucinate-the-token-level-explanation)
 - What are stop tokens in LLMs?
     - Answer: [Stop Tokens in LLMs](https://outcomeschool.com/blog/stop-tokens-in-llms)
 - What is causal masking?
