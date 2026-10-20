@@ -192,6 +192,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 
 - What are neural networks?
     - Answer: [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
+- How does matrix multiplication work in neural networks?
+    - Answer: [How Does Matrix Multiplication Work in Neural Networks?](https://outcomeschool.com/blog/matrix-multiplication-in-neural-networks)
 - Explain the Feedforward Neural Network.
     - Answer: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
 - What are forward propagation and backward propagation?
