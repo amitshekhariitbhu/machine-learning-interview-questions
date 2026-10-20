@@ -191,6 +191,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 ### Deep Learning
 
 - What are neural networks?
+    - Answer: [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
 - Explain the Feedforward Neural Network.
     - Answer: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
 - What are forward propagation and backward propagation?
@@ -200,6 +201,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Can you name and explain a few hyperparameters used for training a neural network?
 - What is the advantage of deep learning over traditional machine learning?
 - What are activation functions, and why are they used?
+    - Answer: [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
 - Explain Sigmoid, Tanh, ReLU, LeakyReLU, and Softmax activation functions with their pros and cons.
 - Why are Sigmoid and Tanh not preferred in the hidden layers of a neural network?
 - What is dropout, and why is it effective?
