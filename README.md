@@ -103,7 +103,9 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is a Perceptron?
     - Answer: [Perceptron in Machine Learning](https://x.com/amitiitbhu/status/2011100039545078038)
 - Explain Multilayer Perception (MLP).
-    - Answer: [Understanding Multilayer Perceptron (MLP) Neural Network](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-deeplearning-neuralnetwork-activity-7331528906673401857-bpqL)
+    - Answer: [Understanding Multilayer Perceptron (MLP) Neural Network](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-deeplearning-neuralnetwork-activity-7331528906673401857-bpqL) and [What is a Multilayer Perceptron (MLP) and How Does It Work?](https://outcomeschool.com/blog/multilayer-perceptron-mlp)
+- Why can't a single perceptron solve the XOR problem?
+    - Answer: [What is a Multilayer Perceptron (MLP) and How Does It Work?](https://outcomeschool.com/blog/multilayer-perceptron-mlp)
 - What is Cross-Entropy?
     - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
 - What are Logits?
