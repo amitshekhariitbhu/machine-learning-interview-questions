@@ -109,7 +109,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is Cross-Entropy?
     - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
 - What are Logits?
-    - Answer: [Understanding Logits in Machine Learning](https://x.com/amitiitbhu/status/1927927814923207146)
+    - Answer: [Understanding Logits in Machine Learning](https://x.com/amitiitbhu/status/1927927814923207146) and [What are Logits in Machine Learning?](https://outcomeschool.com/blog/logits-in-machine-learning)
 - Explain Cross-Validation. Why is it used?
     - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137)
 - What are precision, recall, and F1-score?
