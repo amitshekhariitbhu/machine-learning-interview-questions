@@ -336,6 +336,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is TF-IDF, and how does it differ from word embeddings?
 - What is Bag-of-Words?
 - What is perplexity used for in NLP?
+    - Answer: [What is perplexity in a language model?](https://outcomeschool.com/blog/perplexity-in-language-models)
 - What is stemming vs lemmatization?
 - What is Latent Semantic Indexing (LSI)?
 - What is dependency parsing?
