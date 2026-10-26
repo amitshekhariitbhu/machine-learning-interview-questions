@@ -169,6 +169,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain PCA (Principal Component Analysis). How does it work? When would you use it?
 - Explain Gradient Descent and its variants.
     - Answer: [Math Behind Gradient Descent](https://outcomeschool.com/blog/math-behind-gradient-descent)
+- What is the difference between collaborative filtering and content-based filtering?
+    - Answer: [How does a Recommendation System work?](https://outcomeschool.com/blog/recommendation-system)
 - What is the ROC-AUC curve, and how is it interpreted?
 
 ### Data Preprocessing and Feature Engineering
