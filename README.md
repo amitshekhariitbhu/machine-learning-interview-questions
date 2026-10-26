@@ -356,6 +356,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are the challenges in real-time object tracking?
 - What is feature extraction in computer vision?
 - What is OCR, and what are its main applications?
+    - Answer: [How does OCR with Deep Learning work?](https://outcomeschool.com/blog/optical-character-recognition-ocr)
 - How does CNN differ from traditional neural networks in computer vision?
     - Answer: [Convolutional Neural Networks](https://outcomeschool.com/blog/convolutional-neural-network-cnn)
 - What is data augmentation, and what techniques are commonly used?
