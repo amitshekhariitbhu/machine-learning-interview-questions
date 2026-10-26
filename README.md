@@ -343,6 +343,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 
 - What is computer vision, and why is it important?
 - What is image segmentation, and what are its applications?
+    - Answer: [How does Semantic Segmentation work?](https://outcomeschool.com/blog/semantic-segmentation)
 - What is object detection, and how does it differ from image classification?
     - Answer: [How does Object Detection work?](https://outcomeschool.com/blog/object-detection)
 - What are the steps to build an image recognition system?
