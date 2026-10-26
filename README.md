@@ -463,7 +463,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How does Knowledge Distillation work?
     - Answer: [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
 - What is instruction tuning, and why is it important for chat models?
-    - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt)
+    - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt) and [How does Instruction Tuning work?](https://outcomeschool.com/blog/instruction-tuning)
 - Prefill vs Decode
     - Answer: [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization)
 - How does Sliding Window Attention work?
