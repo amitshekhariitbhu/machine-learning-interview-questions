@@ -449,6 +449,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Direct Preference Optimization (DPO)](https://outcomeschool.com/blog/direct-preference-optimization-dpo)
 - Group Relative Policy Optimization (GRPO)
     - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
+- What is RLVR (Reinforcement Learning with Verifiable Rewards), and how does it differ from RLHF?
+    - Answer: [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](https://outcomeschool.com/blog/reinforcement-learning-with-verifiable-rewards-rlvr)
 - Recursive Language Models (RLMs)
     - Answer: [Recursive Language Models (RLMs)](https://outcomeschool.com/blog/recursive-language-models)
 - Continual Learning in LLMs
