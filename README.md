@@ -190,7 +190,9 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain TPE hyperparameter optimization. 
 - Explain Bayesian Optimization.
 - Explain Adam Optimizer.
+    - Answer: [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](https://outcomeschool.com/blog/optimizers-in-deep-learning)
 - Explain the RMSprop Optimizer.
+    - Answer: [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](https://outcomeschool.com/blog/optimizers-in-deep-learning)
 - What is Adagrad Optimizer?
 
 ### Deep Learning
