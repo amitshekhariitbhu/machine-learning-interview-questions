@@ -396,7 +396,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How do you improve inference speed in production LLM deployments?
     - Answer: [LLM Inference Optimization](https://x.com/amitiitbhu/status/2054100147546837154)
 - What is the context window in LLM?
-    - Answer: [Context window in LLM](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c/)
+    - Answer: [Context window in LLM](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c/) and [How does the Context Window work?](https://outcomeschool.com/blog/context-window)
 - Why is the context window limited in LLMs?
     - Answer: [Why is the context window limited in LLMs?](https://www.youtube.com/watch?v=CGIhxIaOg3M&lc)
 - Explain Prompting, Retrieval-Augmented Generation (RAG), and Fine-Tuning.
