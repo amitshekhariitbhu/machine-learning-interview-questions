@@ -383,6 +383,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
 - What are some challenges in training LLMs?
 - What is zero-shot learning in the context of LLMs?
+    - Answer: [How does In-Context Learning work?](https://outcomeschool.com/blog/in-context-learning)
 - How do you handle bias and fairness in LLMs?
 - What are some real-world applications of LLMs in business and tech?
 - How does the Transformer architecture improve LLM performance over RNNs?
