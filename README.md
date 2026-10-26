@@ -79,7 +79,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are embeddings in Machine Learning?
     - Answer: [Embeddings in Machine Learning](https://www.youtube.com/watch?v=LedXW6xl21s)
 - What is Softmax Activation Function?
-    - Answer: [Softmax Activation Function in Machine Learning](https://www.youtube.com/watch?v=2Zx6x01WwWM) and [What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained](https://outcomeschool.com/blog/activation-functions)
+    - Answer: [Softmax Activation Function in Machine Learning](https://www.youtube.com/watch?v=2Zx6x01WwWM) and [What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained](https://outcomeschool.com/blog/activation-functions) and [What is the Softmax Function and How Does It Work?](https://outcomeschool.com/blog/softmax-function)
 - What is Machine Learning?
     - Answer: [What is Machine Learning?](https://outcomeschool.com/blog/machine-learning)
 - Differentiate between Supervised and Unsupervised Learning.
