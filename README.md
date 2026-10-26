@@ -313,7 +313,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 ### Large Language Model
 
 - What is a Large Language Model (LLM), and how does it work?
-    - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
+    - Answer: Explained in this video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk) and [How does an LLM work?](https://outcomeschool.com/blog/large-language-model-llm)
 - What is the Transformer architecture and how does it work?
     - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What are the key components of the Transformer architecture?
