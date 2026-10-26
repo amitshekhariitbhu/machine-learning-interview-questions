@@ -301,6 +301,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [How do LSTM and GRU work?](https://outcomeschool.com/blog/lstm-and-gru)
 - How to identify exploding gradient issues in your model?
     - Answer: [Why do vanishing and exploding gradients happen?](https://outcomeschool.com/blog/vanishing-and-exploding-gradients)
+- What is mixed precision training, and why is it used?
+    - Answer: [How does Mixed Precision Training work?](https://outcomeschool.com/blog/mixed-precision-training)
 - What is a Transformer architecture, and what makes it different from CNNs and RNNs?
     - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - What is the Attention mechanism in deep learning, and why is it significant?
