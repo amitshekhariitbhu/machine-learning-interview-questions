@@ -581,6 +581,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 
 - Eigenvalues and Eigenvectors
     - Answer: [Understanding Eigenvalues and Eigenvectors](https://x.com/amitiitbhu/status/1955895389225160877)
+- What is cosine similarity, and how is it different from Euclidean distance?
+    - Answer: [How does Cosine Similarity work?](https://outcomeschool.com/blog/cosine-similarity)
 
 ### Behavioral and Scenario-Based Questions
 
