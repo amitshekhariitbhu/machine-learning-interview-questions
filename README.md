@@ -155,6 +155,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How do you check for multicollinearity in regression models?
 - How does K-Nearest Neighbors (KNN) work?
 - Explain K-Means Clustering. How does it work? Limitations?
+    - Answer: [How does K-Means Clustering work?](https://outcomeschool.com/blog/k-means-clustering)
 - Explain Support Vector Machines (SVM). What is the kernel trick?
 - What is the decision boundary in classifiers?
 - Explain Naive Bayes.
