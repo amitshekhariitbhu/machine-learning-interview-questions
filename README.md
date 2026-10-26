@@ -156,8 +156,10 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain Ensemble Methods. Why are they powerful?
 - What is the difference between bagging and boosting?
 - What is Gradient Boosting? How does XGBoost work?
+    - Answer: [How does Gradient Boosting work?](https://outcomeschool.com/blog/gradient-boosting)
 - What are the key hyperparameters for XGBoost?
 - Explain Gradient Boosting and its advantages over Random Forests.
+    - Answer: [How does Gradient Boosting work?](https://outcomeschool.com/blog/gradient-boosting)
 - Explain how Logistic Regression differs from Linear Regression.
     - Answer: [Linear Regression vs Logistic Regression](https://outcomeschool.com/blog/linear-regression-vs-logistic-regression)
 - How does logistic regression work?
