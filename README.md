@@ -102,6 +102,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Loss functions and Cost functions in Machine Learning](https://x.com/amitiitbhu/status/1925471830640664925)
 - What are dropouts?
     - Answer: [Dropout in Neural Networks](https://outcomeschool.com/blog/dropout-in-neural-networks)
+- What is early stopping, and how does it work?
+    - Answer: [How does early stopping work?](https://outcomeschool.com/blog/early-stopping)
 - What is a Perceptron?
     - Answer: [Perceptron in Machine Learning](https://x.com/amitiitbhu/status/2011100039545078038)
 - Explain Multilayer Perception (MLP).
