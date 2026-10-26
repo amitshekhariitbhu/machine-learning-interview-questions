@@ -314,6 +314,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is OCR, and what are its main applications?
 - How does CNN differ from traditional neural networks in computer vision?
 - What is data augmentation, and what techniques are commonly used?
+    - Answer: [How does Data Augmentation work?](https://outcomeschool.com/blog/data-augmentation)
 - What are some popular deep learning frameworks for computer vision?
 - How can Transformers be used for computer vision tasks?
 
