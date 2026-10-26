@@ -505,6 +505,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How do you deal with noisy data in machine learning models?
 - What strategies would you use to optimize the training time for a deep learning model?
 - How do you deploy an ML model in production?
+    - Answer: [How does Model Serving work?](https://outcomeschool.com/blog/model-serving)
 - How do you monitor a model's performance in production?
 - How would you deploy a model with low-latency requirements?
 - What are the common challenges when deploying ML models?
