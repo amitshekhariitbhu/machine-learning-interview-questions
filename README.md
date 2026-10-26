@@ -117,7 +117,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are Logits?
     - Answer: [Understanding Logits in Machine Learning](https://x.com/amitiitbhu/status/1927927814923207146) and [What are Logits in Machine Learning?](https://outcomeschool.com/blog/logits-in-machine-learning)
 - Explain Cross-Validation. Why is it used?
-    - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137)
+    - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137) and [How does Cross-Validation work?](https://outcomeschool.com/blog/cross-validation)
 - What are precision, recall, and F1-score?
     - Answer: [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
 - What is anomaly detection?
@@ -490,7 +490,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How do you choose the right evaluation metric for a given problem?
 - How do you compare the performance of different models?
 - Explain cross-validation and its importance.
-    - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137)
+    - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137) and [How does Cross-Validation work?](https://outcomeschool.com/blog/cross-validation)
 - What is Hyperparameter Tuning?
 - How do you evaluate unsupervised learning models?
 - How do you evaluate a clustering algorithm?
