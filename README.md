@@ -530,6 +530,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 ### Probability and Statistics
 
 - Explain the Bias-Variance Tradeoff.
+    - Answer: [How does the Bias-Variance Tradeoff work?](https://outcomeschool.com/blog/bias-variance-tradeoff)
 - Explain different probability distributions (Normal, Binomial, Poisson, Uniform).
 - What is the normal distribution and its functions?
 - What is an exponential distribution?
