@@ -344,6 +344,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are some approaches for text summarization?
 - What are word embeddings?
 - What is Word2Vec?
+    - Answer: [How does Word2Vec work?](https://outcomeschool.com/blog/word2vec)
 - What is t-SNE, and how is it used for NLP?
 - Explain ColBERT
     - Answer: [Decoding ColBERT](https://outcomeschool.com/blog/decoding-colbert)
