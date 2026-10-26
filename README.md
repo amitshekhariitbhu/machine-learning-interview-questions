@@ -171,6 +171,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain Support Vector Machines (SVM). What is the kernel trick?
 - What is the decision boundary in classifiers?
 - Explain Naive Bayes.
+    - Answer: [How does Naive Bayes work?](https://outcomeschool.com/blog/naive-bayes)
 - What is Dimensionality Reduction?
 - Explain PCA (Principal Component Analysis). How does it work? When would you use it?
     - Answer: [How does PCA work?](https://outcomeschool.com/blog/principal-component-analysis-pca)
