@@ -121,7 +121,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain Cross-Validation. Why is it used?
     - Answer: [Understanding Cross-Validation in Machine Learning](https://x.com/amitiitbhu/status/1939929240084128137) and [How does Cross-Validation work?](https://outcomeschool.com/blog/cross-validation)
 - What are precision, recall, and F1-score?
-    - Answer: [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
+    - Answer: [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall) and [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
 - What is anomaly detection?
 - What is the difference between policy-based and value-based methods?
     - Answer: [What is Policy Gradient? The REINFORCE Algorithm Explained](https://outcomeschool.com/blog/policy-gradient-reinforce)
@@ -480,8 +480,9 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 ### Model Evaluation
 
 - What are precision, recall, F1 score, and accuracy?
+    - Answer: [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
 - What is the confusion matrix, and how do you interpret it?
-    - Answer: [Confusion Matrix](https://www.linkedin.com/posts/pallavi-shekhar_ai-ml-activity-7438197172992606208-oEUc)
+    - Answer: [Confusion Matrix](https://www.linkedin.com/posts/pallavi-shekhar_ai-ml-activity-7438197172992606208-oEUc) and [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
 - What are common evaluation metrics for Classification?
 - When would you use accuracy vs other metrics?
 - When would you use log loss vs accuracy?
