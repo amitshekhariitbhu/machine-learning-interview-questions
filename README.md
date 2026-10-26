@@ -121,6 +121,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is anomaly detection?
 - What is the difference between policy-based and value-based methods?
 - What is Q-Learning?
+    - Answer: [What is a Value Function? Q-Learning Explained Step by Step](https://outcomeschool.com/blog/value-function-and-q-learning)
 - Explain the concept of exploration vs exploitation.
     - Answer: [What is Exploration vs Exploitation in Reinforcement Learning?](https://outcomeschool.com/blog/exploration-vs-exploitation)
 - Explain the curse of dimensionality and how to address it.
