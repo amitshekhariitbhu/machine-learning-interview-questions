@@ -349,6 +349,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How does continuous batching improve LLM inference throughput?
     - Answer: [Continuous Batching in LLMs](https://outcomeschool.com/blog/continuous-batching-in-llms)
 - What is pre-training vs fine-tuning in LLMs?
+    - Answer: [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
 - What are some challenges in training LLMs?
 - What is zero-shot learning in the context of LLMs?
 - How do you handle bias and fairness in LLMs?
