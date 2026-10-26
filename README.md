@@ -356,6 +356,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [How does Semantic Segmentation work?](https://outcomeschool.com/blog/semantic-segmentation)
 - What is object detection, and how does it differ from image classification?
     - Answer: [How does Object Detection work?](https://outcomeschool.com/blog/object-detection)
+- How does a face recognition system work?
+    - Answer: [How does a face recognition system work?](https://outcomeschool.com/blog/face-recognition)
 - What are the steps to build an image recognition system?
 - What are the challenges in real-time object tracking?
 - What is feature extraction in computer vision?
