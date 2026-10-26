@@ -598,6 +598,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is a confidence interval, and how is it used?
 - What are z-score and t-score? When do you use each?
 - Explain Bayes' Theorem. How is it relevant to Naive Bayes or Bayesian methods?
+    - Answer: [What is Bayes' Theorem?](https://outcomeschool.com/blog/bayes-theorem)
 - What's the difference between MLE and MAP estimation?
 - What is Maximum Likelihood Estimation (MLE)?
 - Explain the Bayesian vs Frequentist approach in statistics.
