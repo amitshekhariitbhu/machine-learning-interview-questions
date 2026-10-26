@@ -129,6 +129,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [What is Actor-Critic in Reinforcement Learning? The Advantage Function Explained](https://outcomeschool.com/blog/actor-critic)
 - Explain the concept of exploration vs exploitation.
     - Answer: [What is Exploration vs Exploitation in Reinforcement Learning?](https://outcomeschool.com/blog/exploration-vs-exploitation)
+- What is reward hacking in reinforcement learning, and how do you prevent it?
+    - Answer: [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](https://outcomeschool.com/blog/reward-hacking)
 - Explain the curse of dimensionality and how to address it.
 - Explain Local Loss, Focal Loss, and Gradient Blending in the context of Multi-Task Learning.
 - What is Self-Supervised Learning?
