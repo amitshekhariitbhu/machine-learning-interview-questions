@@ -139,6 +139,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Explain Local Loss, Focal Loss, and Gradient Blending in the context of Multi-Task Learning.
 - What is Self-Supervised Learning?
     - Answer: [How does Self-Supervised Learning work?](https://outcomeschool.com/blog/self-supervised-learning)
+- What is Semi-Supervised Learning?
+    - Answer: [How does Semi-Supervised Learning work?](https://outcomeschool.com/blog/semi-supervised-learning)
 - Explain Contrastive Learning
     - Answer: [Contrastive Learning](https://outcomeschool.com/blog/contrastive-learning)
 - What is Generative AI?
