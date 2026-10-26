@@ -205,6 +205,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Math Behind Backpropagation](https://outcomeschool.com/blog/math-behind-backpropagation)
 - What is backpropagation?
     - Answer: [Math Behind Backpropagation](https://outcomeschool.com/blog/math-behind-backpropagation)
+- Why do we initialize weights randomly in a neural network? What happens if we initialize all the weights to zero?
+    - Answer: [Why Do We Initialize Weights Randomly in Neural Networks?](https://outcomeschool.com/blog/random-weight-initialization)
 - Can you name and explain a few hyperparameters used for training a neural network?
 - What is the advantage of deep learning over traditional machine learning?
 - What are activation functions, and why are they used?
