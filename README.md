@@ -293,7 +293,9 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What are the limitations of RNNs, and how are they solved?
    - Answer: [How do RNNs and Transformers differ?](https://outcomeschool.com/blog/how-do-rnns-and-transformers-differ)
 - What are LSTM and GRU? How do they solve long-term dependency issues?
+    - Answer: [How do LSTM and GRU work?](https://outcomeschool.com/blog/lstm-and-gru)
 - What are the main gates in LSTM and their roles?
+    - Answer: [How do LSTM and GRU work?](https://outcomeschool.com/blog/lstm-and-gru)
 - How to identify exploding gradient issues in your model?
     - Answer: [Why do vanishing and exploding gradients happen?](https://outcomeschool.com/blog/vanishing-and-exploding-gradients)
 - What is a Transformer architecture, and what makes it different from CNNs and RNNs?
