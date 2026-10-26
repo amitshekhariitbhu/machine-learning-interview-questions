@@ -167,6 +167,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How do you approach a dataset with highly imbalanced classes?
 - How do you select features for a model?
 - Why and how do you split data into a train, test, and validation set?
+    - Answer: [Why do we split data into train, validation, and test sets?](https://outcomeschool.com/blog/train-validation-test-split)
 
 ### Optimization
 
