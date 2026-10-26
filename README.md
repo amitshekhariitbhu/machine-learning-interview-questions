@@ -561,6 +561,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - How do you ensure fairness and reduce bias in ML models?
 - Explain MLOps and its key components.
 - What is a feature store, and why is it important?
+- What is a model registry, and why is it important?
+    - Answer: [How does a Model Registry work?](https://outcomeschool.com/blog/model-registry)
 - Cloud vs on-device Model Deployment.
     - Answer: [Cloud vs On-Device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
 - Tell about the Model Compression Techniques.
