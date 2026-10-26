@@ -86,6 +86,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
     - Answer: [Supervised vs Unsupervised Learning](https://outcomeschool.com/blog/supervised-vs-unsupervised-learning)
 - What is Reinforcement Learning?
     - Answer: [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
+- What is a Markov Decision Process (MDP)?
+    - Answer: [What is a Markov Decision Process (MDP)?](https://outcomeschool.com/blog/markov-decision-process-mdp)
 - What is Bias?
     - Answer: [What is Bias?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
 - What is the difference between Classification and Regression?
