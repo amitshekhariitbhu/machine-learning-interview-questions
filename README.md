@@ -281,6 +281,8 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Diffusion Models
     - Answer: [Diffusion Models](https://outcomeschool.com/blog/diffusion-models)
 - Why does Diffusion work better than Auto-Regression?
+- What is flow matching, and how is it different from diffusion models?
+    - Answer: [How does flow matching train a generative model?](https://outcomeschool.com/blog/flow-matching)
 - Explain transfer learning and when to use it.
 - What are Multimodal AI models, and how do they process different types of data?
     - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai)
