@@ -558,6 +558,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - Discuss scalability and latency requirements for ML systems.
 - How do you ensure your model is scalable and performs well with large datasets?
 - What is model explainability? Why is it important?
+    - Answer: [What is Explainable AI?](https://outcomeschool.com/blog/explainable-ai-xai)
 - What techniques would you use to make a model more interpretable?
 - Describe your approach to debugging an underperforming ML model.
 - How do you ensure fairness and reduce bias in ML models?
