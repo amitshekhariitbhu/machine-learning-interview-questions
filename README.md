@@ -180,6 +180,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What is the difference between collaborative filtering and content-based filtering?
     - Answer: [How does a Recommendation System work?](https://outcomeschool.com/blog/recommendation-system)
 - What is the ROC-AUC curve, and how is it interpreted?
+    - Answer: [How does the ROC curve and AUC work?](https://outcomeschool.com/blog/roc-curve-and-auc)
 
 ### Data Preprocessing and Feature Engineering
 
@@ -502,6 +503,7 @@ For all AI Engineering Interview – Questions and Answers: Refer to [AI Enginee
 - What metrics would you use for a multi-class classification problem?
 - How do you handle class imbalance in classification metrics?
 - What is the ROC curve? What is AUC?
+    - Answer: [How does the ROC curve and AUC work?](https://outcomeschool.com/blog/roc-curve-and-auc)
 - How do you handle imbalanced datasets?
 - What are common evaluation metrics for Regression?
 - What's the difference between MAE, MSE, and RMSE?
